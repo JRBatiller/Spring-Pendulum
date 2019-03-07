@@ -10,3 +10,4 @@ Memory_data_gen - this takes the generated pendulum data and attempts to train i
 
 memory_weights.py, memory_tests.py, heatmap_gen.py - these are for generating plots and figures to make data easier to understand
 
+Not sure if I can post my entire paper here or not...
